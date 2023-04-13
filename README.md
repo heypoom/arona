@@ -13,10 +13,10 @@ Arona is an autonomous, data-oriented AI personal assistant powered by TypeScrip
 
 ### Features
 
-- **voice input**: uses OpenAI Whisper
 - **language model integration**: uses LLMs (e.g. OpenAI GPT-4, LaMDa, LLaMA) to generate responses.
-- **communication with multiple agents**: multiple agent instances can communicate with other agents.
 - **task-driven autonomous agent**: given a single starting objective, Arona can generate a sequence of actions to achieve it and execute it.
+- **voice input**: uses OpenAI's Whisper model to accept voice inputs
+- **communication with multiple agents**: multiple agent instances can communicate with other agents.
 - **external actions**: Arona can interact with the outside world by executing actions, e.g. search on Google, send an email, etc.
 - **time travelling and debugging**: as Arona prompts and actions are logged as pure JSON objects, time-travelling and branching is possible.
 - **data source insights**: you can supply data sources that Arona can look into (e.g. SQL databases)
