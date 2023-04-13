@@ -1,4 +1,4 @@
-# Arona: AI assistant waifu
+# Arona: autonomous AI waifu & assistant
 
 Arona is an autonomous, data-oriented AI personal assistant powered by TypeScript and Rust. Runs in both the browser, CLI, and programmatically via API.
 
